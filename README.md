@@ -1,2 +1,3 @@
 # Computer-Organisation-and-Architecture
-just some VHDL and Verilog codes to 
+Just some VHDL and Verilog codes that we learn in our lab.
+And how to implement it in the lab.
