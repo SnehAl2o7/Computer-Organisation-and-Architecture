@@ -1,4 +1,4 @@
-# 📚 Computer Organization and Architecture - Study Tracker
+# 📚 Computer Organization and Architecture Lab
 
 This repository is dedicated to tracking and organizing my progress in studying **Computer Organization and Architecture (COA)**. The goal is to develop a strong understanding of how computers work at the hardware and system level.
 
